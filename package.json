@@ -23,5 +23,8 @@
   "homepage": "https://github.com/the-hercules/auditing-app#readme",
   "devDependencies": {
     "electron": "^21.1.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
