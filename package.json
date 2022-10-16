@@ -1,0 +1,27 @@
+{
+  "name": "auditing-app",
+  "version": "1.0.0",
+  "description": "auditing app ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-hercules/auditing-app.git"
+  },
+  "keywords": [
+    "learn",
+    "make"
+  ],
+  "author": "hercules",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-hercules/auditing-app/issues"
+  },
+  "homepage": "https://github.com/the-hercules/auditing-app#readme",
+  "devDependencies": {
+    "electron": "^21.1.1"
+  }
+}
